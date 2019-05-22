@@ -4,15 +4,15 @@ type: slides
 
 # Introduction
 
-Notes: Text at the end of a slide prefixed like this will be displayed as
-speaker notes on the side. Slides can be separated with a divider: ---.
+Notes: In the first example below, I give you a lot of the necessary code to help familiarize you with python and its primary libraries. 
+Lecture 3 contained an example of the $k$ nearest neighbors algorithm for a prediction problem. The initial example considered $k=1$ and was applied to the advertising dataset in an attempt to predict sales from TV budgets. Here I reproduce the results from the lecture.
 
 ---
 
 # This is a slide
 
 ```python
-# Print something
+# Part 1: Load Basic Python Modules
 print("Hello world")
 ```
 

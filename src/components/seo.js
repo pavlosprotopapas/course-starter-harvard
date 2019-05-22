@@ -1,18 +1,18 @@
 import React from 'react'
 import Helmet from 'react-helmet'
-import { StaticQuery, graphql } from 'gatsby'
+import {graphql, StaticQuery} from 'gatsby'
 
 const SEO = ({ title, description }) => (
     <StaticQuery
         query={query}
         render={data => {
-            const lang = 'en'
-            const siteMetadata = data.site.siteMetadata
+            const lang = 'en';
+            const siteMetadata = data.site.siteMetadata;
             const pageTitle = title
                 ? `${title} · ${siteMetadata.title}`
-                : `${siteMetadata.title} · ${siteMetadata.slogan}`
-            const pageDesc = description || siteMetadata.description
-            const image = `${siteMetadata.siteUrl}/social.jpg`
+                : `${siteMetadata.title} · ${siteMetadata.slogan}`;
+            const pageDesc = description || siteMetadata.description;
+            const image = `${siteMetadata.siteUrl}/social.jpg`;
             const meta = [
                 {
                     name: 'description',
@@ -62,7 +62,7 @@ const SEO = ({ title, description }) => (
                     name: 'twitter:description',
                     content: pageDesc,
                 },
-            ]
+            ];
 
             return (
                 <Helmet defer={false} htmlAttributes={{ lang }} title={pageTitle} meta={meta}>
@@ -76,7 +76,7 @@ const SEO = ({ title, description }) => (
             )
         }}
     />
-)
+);
 
 export default SEO
 
@@ -93,4 +93,4 @@ const query = graphql`
             }
         }
     }
-`
+`;

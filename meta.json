@@ -1,15 +1,15 @@
 {
     "courseId": "course-starter-python",
-    "title": "My cool online course",
+    "title": "Introduction to Data Science",
     "slogan": "A free online course",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique libero at est congue, sed vestibulum tortor laoreet. Aenean egestas massa non commodo consequat. Curabitur faucibus, sapien vitae euismod imperdiet, arcu erat semper urna, in accumsan sapien dui ac mi. Pellentesque felis lorem, semper nec velit nec, consectetur placerat enim.",
-    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique libero at est congue, sed vestibulum tortor laoreet. Aenean egestas massa non commodo consequat. Curabitur faucibus, sapien vitae euismod imperdiet, arcu erat semper urna.",
+    "description": "Welcome to Introduction to Data Science. The course focuses on the analysis of messy, real life data to perform predictions using statistical and machine learning methods. The class material integrates the five key facets of an investigation using data: data collection ‐ data wrangling, cleaning, and sampling to get a suitable data set; data management ‐ accessing data quickly and reliably; exploratory data analysis – generating hypotheses and building intuition; prediction or statistical learning; and communication – summarizing results through visualization, stories, and interpretable summaries.",
+    "bio": "----",
     "siteUrl": "https://course-starter-python.netlify.com",
     "twitter": "spacy_io",
     "fonts": "IBM+Plex+Mono:500|IBM+Plex+Sans:700|Lato:400,400i,700,700i",
     "testTemplate": "from wasabi import Printer\n__msg__ = Printer()\n__solution__ = \"\"\"${solution}\"\"\"\n\n${solution}\n\n${test}\n\ntry:\n    test()\nexcept AssertionError as e:\n    __msg__.fail(e)",
     "juniper": {
-        "repo": "ines/course-starter-python",
+        "repo": "jimachin/course-starter-harvard",
         "branch": "binder",
         "lang": "python",
         "kernelType": "python3",
@@ -17,8 +17,14 @@
     },
     "showProfileImage": true,
     "footerLinks": [
-        { "text": "Website", "url": "https://spacy.io" },
-        { "text": "Source", "url": "https://github.com/ines/course-starter-python" },
+        {
+            "text": "Website",
+            "url": "https://iacs.seas.harvard.edu"
+        },
+        {
+            "text": "Source",
+            "url": "#"
+        },
         { "text": "Built with ♥", "url": "https://github.com/ines/course-starter-python" }
     ],
     "theme": "#de7878"
