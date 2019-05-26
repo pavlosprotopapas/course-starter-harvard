@@ -3,15 +3,16 @@ title: 'Lecture 4: Lecture Demo'
 description:
   'The following examples are intended to complement the lecture. They can be used to clarify important steps from the lecture. You are strongly encouraged to do them.' 
 prev: null
-next: /chapter2
+next: /chapter2/
 type: chapter
 id: 1
 ---
 
-<exercise id="1" title="Introduction" type="slides">
+<exercise id="1" title="Linear Regression Basics" type="slides">
 
 <slides source="chapter1_01_introduction">
 </slides>
+
 
 </exercise>
 
