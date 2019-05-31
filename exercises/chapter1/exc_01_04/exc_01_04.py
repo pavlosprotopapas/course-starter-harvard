@@ -1,5 +1,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
+% matplotlib
+inline
 
 df = pd.read_csv('data.csv')
 
