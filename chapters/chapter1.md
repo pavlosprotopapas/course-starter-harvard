@@ -1,7 +1,7 @@
 ---
-title: 'Lecture 4: Lecture Demo'
+title: 'Chapter 1 : Introduction to Linear Regression'
 description:
-  'The following examples are intended to complement the lecture. They can be used to clarify important steps from the lecture. You are strongly encouraged to do them.' 
+  '' 
 prev: null
 next: /chapter2/
 type: chapter
@@ -9,53 +9,55 @@ id: 1
 ---
 
 <exercise id="1" title="Linear Regression Basics" type="slides">
-
-<slides source="chapter1_01_introduction">
-</slides>
-
-
+    <slides source="chapter1_01_introduction"></slides>
 </exercise>
-
+  
 <exercise id="2" title="Getting Started">
+    Let's ask some questions about the slides. Whats the correct answer?
+    <choice>
+        <opt text="Answer one">This is not the correct answer.</opt>
+        <opt text="Answer two" correct="true">Good job!</opt>
+        <opt text="Answer three">This is not correct either.</opt>
+    </choice>
+</exercise>
 
-Let's ask some questions about the slides. Whats the correct answer?
+<exercise id="3" title="Describe your data">
 
-<choice>
-<opt text="Answer one">
+- Load data from data file data.csv using pandas
+- Examine the Data Frame. How many points?
 
-This is not the correct answer.
-
-</opt>
-
-<opt text="Answer two" correct="true">
-
-Good job!
-
-</opt>
-
-<opt text="Answer three">
-
-This is not correct either.
-
-</opt>
-</choice>
+<codeblock id="01_03">---Hints---</codeblock>
 
 </exercise>
 
-<exercise id="3" title="First steps">
+<exercise id="4" title="Draw x vs y">
 
-This is a code exercise. The content can be formatted in simple Markdown – so
-you can have **bold text**, `code` or [links](https://spacy.io) or lists, like
-the one for the instructions below.
+- Rename the columns of your Data Frame.
+- Plot the data in a graphic of x vs y.
 
-- These are instructions and they can have bullet points.
-- The code block below will look for the files `exc_01_03`, `solution_01_03` and
-  `test_01_03` in `/exercises`.
+<codeblock id="01_04">---Hints---</codeblock>
 
-<codeblock id="01_03">
+</exercise>
 
-This is a hint.
+<exercise id="5" title="Estimate the Linear Model">
 
-</codeblock>
+- Guess beta0 and beta1 and make predictions with your model.
+- Calculate the MSE for your model.
+
+<codeblock id="01_05">---Hints---</codeblock>
+
+</exercise>
+
+<exercise id="6" title="Analize the MSE">
+
+- Set beta0 = 2.2 and examine all models for beta1 = 0,3 in increments of 0.1
+
+<codeblock id="01_06">---Hints---</codeblock>
+
+</exercise>
+
+<exercise id="7" title="More to Do PPP">
+
+<codeblock id="01_07">---Hints---</codeblock>
 
 </exercise>
