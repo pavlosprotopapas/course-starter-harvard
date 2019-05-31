@@ -1,31 +1,34 @@
 {
-    "courseId": "course-starter-python",
-    "title": "Introduction to Data Science",
-    "slogan": "A free online course",
-    "description": "Welcome to Introduction to Data Science. The course focuses on the analysis of messy, real life data to perform predictions using statistical and machine learning methods. The class material integrates the five key facets of an investigation using data: data collection ‐ data wrangling, cleaning, and sampling to get a suitable data set; data management ‐ accessing data quickly and reliably; exploratory data analysis – generating hypotheses and building intuition; prediction or statistical learning; and communication – summarizing results through visualization, stories, and interpretable summaries.",
-    "bio": "----",
-    "siteUrl": "https://course-starter-python.netlify.com",
-    "twitter": "spacy_io",
-    "fonts": "IBM+Plex+Mono:500|IBM+Plex+Sans:700|Lato:400,400i,700,700i",
-    "testTemplate": "from wasabi import Printer\n__msg__ = Printer()\n__solution__ = \"\"\"${solution}\"\"\"\n\n${solution}\n\n${test}\n\ntry:\n    test()\nexcept AssertionError as e:\n    __msg__.fail(e)",
-    "juniper": {
-        "repo": "jimachin/course-starter-harvard",
-        "branch": "binder",
-        "lang": "python",
-        "kernelType": "python3",
-        "debug": false
+  "courseId": "course-starter-python",
+  "title": "Introduction to Data Science",
+  "slogan": "A free online course",
+  "description": "Welcome to Introduction to Data Science. The course focuses on the analysis of messy, real life data to perform predictions using statistical and machine learning methods. The class material integrates the five key facets of an investigation using data: data collection ‐ data wrangling, cleaning, and sampling to get a suitable data set; data management ‐ accessing data quickly and reliably; exploratory data analysis – generating hypotheses and building intuition; prediction or statistical learning; and communication – summarizing results through visualization, stories, and interpretable summaries.",
+  "bio": "Pavlos Protopapas is the Scientific Program Director and Lecturer at the Institute for Applied Computational Science at the Harvard John A. Paulson School of Engineering and Applied Sciences.As Scientific Program Director, he directs the educational program of the institute, overseeing the curriculum of the master’s programs in computational science and engineering and data science, teaching core data science courses, and mentoring master’s students and advising Ph.D. students in related fields. Protopapas’ research is at the intersection of astronomy and data science. During his career, he has applied machine learning, deep learning, and statistics to gain knowledge about the cosmos. Currently, he is developing complete and diverse training sets to be used in the application of machine learning to astronomy, using deep transfer learning, generative adversarial networks (GANs), and deep neural networks.  His research topics include many areas of machine learning and data science, especially classification, probabilistic graphical modeling, and time series analysis.",
+  "siteUrl": "https://course-starter-python.netlify.com",
+  "twitter": "...",
+  "fonts": "IBM+Plex+Mono:500|IBM+Plex+Sans:700|Lato:400,400i,700,700i",
+  "testTemplate": "from wasabi import Printer\n__msg__ = Printer()\n__solution__ = \"\"\"${solution}\"\"\"\n\n${solution}\n\n${test}\n\ntry:\n    test()\nexcept AssertionError as e:\n    __msg__.fail(e)",
+  "juniper": {
+    "repo": "jimachin/course-starter-harvard",
+    "branch": "binder",
+    "lang": "python",
+    "kernelType": "python3",
+    "debug": false
+  },
+  "showProfileImage": true,
+  "footerLinks": [
+    {
+      "text": "Harvard-IACS",
+      "url": "https://harvard-iacs.github.io/2018-CS109A/"
     },
-    "showProfileImage": true,
-    "footerLinks": [
-        {
-            "text": "Website",
-            "url": "https://harvard-iacs.github.io/2018-CS109A/"
-        },
-        {
-            "text": "Source",
-            "url": "#"
-        },
-        { "text": "Built with ♥", "url": "https://github.com/ines/course-starter-python" }
-    ],
-    "theme": "#de7878"
+    {
+      "text": "Source",
+      "url": "#"
+    },
+    {
+      "text": "Built with ♥",
+      "url": "https://github.com/ines/course-starter-python"
+    }
+  ],
+  "theme": "#de7878"
 }
