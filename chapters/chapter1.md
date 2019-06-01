@@ -11,26 +11,38 @@ id: 1
 <exercise id="1" title="Linear Regression Basics" type="slides">
     <slides source="chapter1_01_introduction"></slides>
 </exercise>
-  
+
+<!--   
 <exercise id="2" title="Getting Started">
-    Let's ask some questions about the slides. Whats the correct answer?
+    The goal of the following exercises are to familiarize you with the very basics 
+    of linear regression concepts. More practival skills will be in the lab sessions. 
+    Let's reproduce some of the plots that are shown in class.
     <choice>
         <opt text="Answer one">This is not the correct answer.</opt>
         <opt text="Answer two" correct="true">Good job!</opt>
         <opt text="Answer three">This is not correct either.</opt>
     </choice>
 </exercise>
-
+-->
 <exercise id="3" title="Describe your data">
 
-- Load data from data file data.csv using pandas
-- Examine the Data Frame. How many points?
+- Load data from data file `data.csv` using pandas
+- Examine the `DataFrame`. How many points?
 
-<codeblock id="01_03">---Hints---</codeblock>
+<codeblock id="01_03"> 
+pandas read csv file data go to https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html
+<br> 
+A great method to describe the dataframe is .describe() 
+</codeblock>
 
 </exercise>
 
 <exercise id="4" title="Draw x vs y">
+The goal here is produce a plot like this 
+<br>
+<img src='ch1_fig1.png' width="50" height="60">
+
+
 
 - Rename the columns of your Data Frame.
 - Plot the data in a graphic of x vs y.
