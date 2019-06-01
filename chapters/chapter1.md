@@ -12,7 +12,7 @@ id: 1
     <slides source="chapter1_01_introduction"></slides>
 </exercise>
 
-<!--   
+ 
 <exercise id="2" title="Getting Started">
     The goal of the following exercises are to familiarize you with the very basics 
     of linear regression concepts. More practival skills will be in the lab sessions. 
@@ -23,7 +23,7 @@ id: 1
         <opt text="Answer three">This is not correct either.</opt>
     </choice>
 </exercise>
--->
+
 <exercise id="3" title="Describe your data">
 
 - Load data from data file `data.csv` using pandas
@@ -39,9 +39,9 @@ A great method to describe the dataframe is .describe()
 
 <exercise id="4" title="Draw x vs y">
 The goal here is produce a plot like this 
-<br>
+<!--
 <img src='ch1_fig1.png' width="50" height="60">
-
+-->
 
 
 - Rename the columns of your Data Frame.
