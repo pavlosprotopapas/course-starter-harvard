@@ -3,7 +3,6 @@ import numpy as np
 # Import the pandas library and name it pd
 import pandas as pd
 
-
 # Read data.csv file using pandas libraries
 data_filename = 'https://raw.githubusercontent.com/pavlosprotopapas/course-starter-harvard/master/jn/data.csv'
 df = pd.read_csv(data_filename);

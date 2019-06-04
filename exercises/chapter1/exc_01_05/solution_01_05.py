@@ -1,10 +1,10 @@
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
-% matplotlib
-inline
+%matplotlib inline
 
-df = pd.read_csv('data.csv')
+data_filename = 'https://raw.githubusercontent.com/pavlosprotopapas/course-starter-harvard/master/jn/data.csv'
+df = pd.read_csv(data_filename)
 
 # Estimate beta0 by observing the value of y when x = 0
 beta0 = 1.5
@@ -17,7 +17,7 @@ y_predict = beta0 + beta1 * df.x
 
 # Plot the predicted values as well as the data
 plt.plot(df.x, df.y, 'bs')
-plt.plot(df.x, df)
+plt.plot(df.x, y_predict)
 
 # Calculate the MSE
 MSE = np.mean((df.y - y_predict) ** 2)  # MSE = ...

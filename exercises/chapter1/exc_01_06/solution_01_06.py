@@ -3,7 +3,8 @@ import numpy as np
 import pandas as pd
 %matplotlib inline
 
-df = pd.read_csv('data.csv')
+data_filename = 'https://raw.githubusercontent.com/pavlosprotopapas/course-starter-harvard/master/jn/data.csv'
+df = pd.read_csv(data_filename)
 
 # Set beta0 = 2.2
 beta0 = 2.2
