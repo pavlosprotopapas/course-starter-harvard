@@ -2,19 +2,16 @@
 import numpy as np
 # Import the pandas library and name it pd
 import pandas as pd
-
-# Read data.csv file using pandas libraries from
-data_filename = 'https://raw.githubusercontent.com/pavlosprotopapas/course-starter-harvard/master/jn/data.csv'
-df = pd.____;
-
-# Check number of observations and number of columns, mean values of x and y etc
-df.____;
-
-
-import pandas as pd
+# import matplotlib.pyplot
+import matplotlib.pyplot as plt
+# add the following line in order to have the plots inside the notebook
 %matplotlib inline
 
-data_filename = 'https://raw.githubusercontent.com/pavlosprotopapas/course-starter-harvard/master/jn/data.csv'
+# Data set used in this exercise (Advertising.csv)
+data_filename = 'https://raw.githubusercontent.com/Harvard-IACS/' \
+                '2018-CS109A/master/content/lectures/lecture5/data/Advertising.csv'
+
+# Read Advertising.csv file using pandas libraries:
 df = pd.read_csv(data_filename)
 
 # Estimate beta0 by observing the value of y when x = 0
@@ -27,8 +24,8 @@ beta1 = ____;
 y_predict = ____;
 
 # Plot the predicted values as well as the data
-plt.plot(df.x, df.y, 'bs')
-plt.plot(df.x, y_predict)
+plt.plot(df.?, df.?, 'bs')
+plt.plot(df.?, y_predict)
 
 # Calculate the MSE
 MSE = ____;

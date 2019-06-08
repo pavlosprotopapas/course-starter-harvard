@@ -14,11 +14,21 @@ data_filename = 'https://raw.githubusercontent.com/Harvard-IACS/' \
 # Read Advertising.csv file using pandas libraries:
 df = pd.read_csv(data_filename)
 
-# Create a new dataframe called `df_new`. witch the columns [?,?]
-df_new = ____;
+# Estimate beta0 by observing the value of y when x = 0
+beta0 = 1.5
 
-# Plot the data in a graphic of ? vs ?.
-plt.____;
+# Estimate beta1! Check the slope for guidance
+beta1 = 1.5
 
-# To display all figures
-plt.show()
+# Define the function to calculate the prediction of x using beta0 and beta1
+y_predict = beta0 + beta1 * df.?
+
+# Plot the predicted values as well as the data
+plt.plot(df.?, df.?, 'bs')
+plt.plot(df.?, df)
+
+# Calculate the MSE
+MSE = np.mean((df.? - y_predict) ** 2)
+
+# Print the results
+print("My MSE is: {0}".format(MSE))

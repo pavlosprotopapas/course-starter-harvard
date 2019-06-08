@@ -14,11 +14,21 @@ data_filename = 'https://raw.githubusercontent.com/Harvard-IACS/' \
 # Read Advertising.csv file using pandas libraries:
 df = pd.read_csv(data_filename)
 
-# Create a new dataframe called `df_new`. witch the columns [?,?]
-df_new = ____;
+# Set beta0 = 2.2
+beta0 = 2.2
 
-# Plot the data in a graphic of ? vs ?.
-plt.____;
+# Create lists to store the MSE and beta1
+MSE = []
+beta1_list = []
 
-# To display all figures
-plt.show()
+for beta1 in np.arange(0, 3, 0.1):
+    y_predict = beta0 + beta1 * df.?
+
+    # Append the new MSE in the list that you created above
+    MSE.append(np.mean((df.? - y_predict) ** 2))
+
+    # Also append beta1 values in the list
+    beta1_list.append(beta1)
+
+# Plot MSE as a function of beta1
+plt.plot(beta1_list, MSE)

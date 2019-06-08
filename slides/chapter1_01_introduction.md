@@ -2,18 +2,22 @@
 type: slides
 ---
 
+# Introduction
+
+Notes: In the first chapter, I will give you the necessary intuitions to help you become familiar with the basics of Regression.
+
+---
+
 # Exercise Goals 
 
+* The goal of this exercise is to reproduce the plot that was shown in class. 
 
-The goal of this exerice is to reproduce the plot that was shown in class. The exercises help you to make this happen. 
+<div style="text-align:center"><img src="./kNN_fig.png" width="70%"></div>
 
-<img src="kNN_fig.png">
+>  The exercises will help you to make this happen.
 
-
-    
+Notes: Help : __[regression](https://en.wikipedia.org/wiki/Regression_analysis)__. 
 
 ---
 
 # Let's practice!
-
-Notes: 
