@@ -3,7 +3,7 @@ title: 'Chapter 1: Day 1 morning A, Introduction to Regression'
 description:
   '' 
 prev: null
-next: /Chapter 2/
+next: /chapter2/
 type: chapter
 id: 1
 ---
@@ -15,13 +15,13 @@ id: 1
  
 <exercise id="2" title="Getting Started">
 
-Is it possible for $R^2$  for a model to be negative? : 
+Is it possible for R<sup>2</sup>  for a model to be negative? : 
 
 <choice>
-<opt text="No, $R^2$ cannot be negative">This is not correct</opt>
+<opt text="No, R<sup>2</sup> cannot be negative">This is not correct</opt>
 <opt text="Yes, if the predictor in a least-squares regression model is poor." correct="true">Good job!</opt>
 <opt text="Yes, if the predictor is negatively correlated with the response ">This is not correct.</opt>
-<opt text="Yes, if the model does worse than using $\bar{Y}$  for all predictions">This is not correct.</opt>
+<opt text="Yes, if the model does worse than using <bar>Y</bar>  for all predictions">This is not correct.</opt>
 
 </choice>
 

@@ -2,7 +2,7 @@
 title: 'Chapter 2: Day 1 afternoon, Introduction to Linear Regression'
 description:
   '' 
-prev: null
+prev: /chapter1/
 next: /chapter3/
 type: chapter
 id: 2
