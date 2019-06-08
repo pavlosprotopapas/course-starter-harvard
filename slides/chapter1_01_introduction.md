@@ -5,14 +5,10 @@ type: slides
 # Exercise Goals 
 
 
-- The goal of this exercise is to reproduce the plot that was shown in class. The exercises help you to make this happen. 
+The goal of this exerice is to reproduce the plot that was shown in class. The exercises help you to make this happen. 
 
+<img src="kNN_fig.png">
 
-<div style="text-align:center">
-    <img src="./kNN_fig.png" 
-    alt="Visual representation of the data generates in this example" 
-    width="40%">
-</div>
 
     
 
