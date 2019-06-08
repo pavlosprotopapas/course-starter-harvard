@@ -10,8 +10,12 @@ import pandas as pd
 data_filename = 'https://raw.githubusercontent.com/Harvard-IACS/2018-CS109A/master/content/lectures/lecture5/data/Advertising.csv'
 df = pd.read_csv(data_filename);
 
-#  columns in data frame as [x,y]
-df.columns = ____;
+#  Select 7 rows
+df = df.iloc[0:7]
 
-# Plot  x vs  y
-plt.____;
+# Plot Sales vs TV
+plt.plot(df.TV, df.sales, 'b+')
+
+# Add axis labels for clarity
+plt.xlabel('TV budget')
+plt.ylabel('Sales')

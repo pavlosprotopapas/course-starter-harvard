@@ -4,7 +4,7 @@ def test():
     # printing formatted messages is available as __msg__. See the testTemplate
     # in the meta.json for details.
 
-    assert len(df.x)==30, "are you missing the x column?"
-    #assert df.y, "are you missing the y column?"
+    assert len(df)==7,  "are you sure you selected 7 rows?"
+
 
     __msg__.good("Brilliant!")

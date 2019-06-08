@@ -47,10 +47,8 @@ Here we select just 12 points and select only the TV-budget and sales and plot o
 
 </exercise>
 
-<exercise id="5" title="Estimate the Linear Model">
-
-- Guess beta0 and beta1 and make predictions with your model.
-- Calculate the MSE for your model.
+<exercise id="5" title="Nearest neighbors">
+Use the code provided to find the nearest neighbors and plot the value of y at various x's. This should produce a similar plot to k=1 nearest neighbor shown in class. 
 
 <codeblock id="01_05">---Hints---</codeblock>
 
@@ -67,5 +65,9 @@ Here we select just 12 points and select only the TV-budget and sales and plot o
 <exercise id="7" title="More to Do PPP">
 
 <codeblock id="01_07">---Hints---</codeblock>
+
+- Guess beta0 and beta1 and make predictions with your model.
+- Calculate the MSE for your model.
+
 
 </exercise>

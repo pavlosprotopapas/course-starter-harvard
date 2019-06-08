@@ -11,7 +11,11 @@ data_filename = 'https://raw.githubusercontent.com/Harvard-IACS/2018-CS109A/mast
 df = pd.read_csv(data_filename);
 
 #  columns in data frame as [x,y]
-df.columns = ____;
+df = ___
 
-# Plot  x vs  y
-plt.____;
+# Plot Sales vs TV
+plt.___
+
+# Add axis labels for clarity
+plt.___
+plt.___

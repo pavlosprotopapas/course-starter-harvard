@@ -1,26 +1,59 @@
-import matplotlib.pyplot as plt
+# import numpy and name it np
 import numpy as np
+
+# import matplotlib.pyplot
+import matplotlib.pyplot as plt
+
 import pandas as pd
+
+# add the following line in order to have the plots inside the notebook
 %matplotlib inline
 
-data_filename = 'https://raw.githubusercontent.com/pavlosprotopapas/course-starter-harvard/master/jn/data.csv'
-df = pd.read_csv(data_filename)
+# read the data
+data_filename = 'https://raw.githubusercontent.com/Harvard-IACS/2018-CS109A/master/content/lectures/lecture5/data/Advertising.csv'
+df = pd.read_csv(data_filename);
 
-# Estimate beta0 by observing the value of y when x = 0
-beta0 = 1.5
+#  columns in data frame as [x,y]
+df = df.iloc[5:13]
 
-# Estimate beta1! Check the slope for guidance
-beta1 = 1.5
 
-# Define the function to calculate the prediction of x using beta0 and beta1
-y_predict = beta0 + beta1 * df.x
+# Select the columns I need to simplify the rest of the code
+data_x = df.TV
+data_y = df.sales
 
-# Plot the predicted values as well as the data
-plt.plot(df.x, df.y, 'bs')
-plt.plot(df.x, y_predict)
 
-# Calculate the MSE
-MSE = np.mean((df.y - y_predict) ** 2)  # MSE = ...
+# Here's a function that finds the index of the nearest neighbor
+# and returns the value of the nearest neighbor.  Note that this
+# is just for k = 1 and the distance function is simply the
+# absolute value.
+def find_nearest(df, value):
+    data_x = df.TV
 
-# Print the results
-print("My MSE is: {0}".format(MSE))
+    idx = (np.abs(data_x - value)).idxmin()
+    return idx, data_x[idx]
+
+
+# Note that we have used the idxmin method in our function.  This is
+# because `array' is a pandas dataframe and idxmin() is designed to
+# work with pandas dataframes.  If we are working with a numpy array
+# then the appropriate method would be `argmin()'.
+
+# Create some artificial x-values (might not be in the actual dataset)
+x = np.linspace(np.min(data_x), np.max(data_x))
+
+# Initialize the y-values to zero
+y = np.zeros((len(x)))
+
+# Apply the KNN algorithm.  Try to predict the y-value at a given x-value
+# Note:  You may have tried to use the `range' method in your code.  Enumerate
+# is far better in this case.  Try to understand why.
+for i, xi in enumerate(x):
+    y[i] = data_y[find_nearest(df, xi)[0]]
+
+# Plot your solution
+plt.plot(x, y, '-')
+# Plot the original data using black x's.
+plt.plot(df.TV, df.sales, 'k+')
+plt.title('')
+plt.xlabel('TV budget in $1000')
+plt.ylabel('Sales in $1000')

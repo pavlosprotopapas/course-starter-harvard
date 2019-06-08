@@ -2,23 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e76b8c3f-0052-438f-b5ea-55d0ca48490c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapters/ch1_fig1.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/chapters/chapter1.md" beforeDir="false" afterPath="$PROJECT_DIR$/chapters/chapter1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapters/chapter2.md" beforeDir="false" afterPath="$PROJECT_DIR$/chapters/chapter2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/chapter1/exc_01_03/data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/chapter1/exc_01_03/exc_01_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/chapter1/exc_01_03/exc_01_03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/chapter1/exc_01_03/solution_01_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/chapter1/exc_01_03/solution_01_03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/chapter1/exc_01_03/test_01_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/chapter1/exc_01_03/test_01_03.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercises/chapter1/exc_01_04/exc_01_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/chapter1/exc_01_04/exc_01_04.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercises/chapter1/exc_01_04/solution_01_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/chapter1/exc_01_04/solution_01_04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/chapter1/exc_01_04/test_01_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/chapter1/exc_01_04/test_01_04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/chapter1/exc_01_05/exc_01_05.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/chapter1/exc_01_05/exc_01_05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/chapter1/exc_01_05/solution_01_05.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/chapter1/exc_01_05/solution_01_05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/chapter1/exc_01_05/test_01_05.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/chapter1/exc_01_05/test_01_05.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercises/chapter1/exc_01_07/exc_01_07.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/chapter1/exc_01_07/exc_01_07.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/meta.json" beforeDir="false" afterPath="$PROJECT_DIR$/meta.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slides/chapter1_01_introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/slides/chapter1_01_introduction.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/social.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/social.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/chapter1/exc_01_07/test_01_07.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/chapter1/exc_01_07/test_01_07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jn/Linear Regression Basics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/jn/Linear Regression Basics.ipynb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,19 +23,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercises/chapter1/exc_01_03/test_01_03.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercises/chapter1/exc_01_04/exc_01_04.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="17" />
+            <state relative-caret-position="300">
+              <caret line="20" column="7" selection-end-line="20" selection-end-column="7" />
               <folding>
                 <element signature="e#27#58#0" expanded="true" />
               </folding>
@@ -51,55 +35,55 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../2019/2019-CS109A/config.py">
+        <entry file="file://$PROJECT_DIR$/exercises/chapter1/exc_01_04/solution_01_04.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="90" selection-start-line="90" selection-end-line="90" />
+            <state relative-caret-position="165">
+              <caret line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#27#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercises/chapter1/exc_01_05/solution_01_05.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="388">
+              <caret line="59" selection-start-line="59" selection-end-line="59" />
+              <folding>
+                <element signature="e#30#48#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/exercises/chapter1/exc_01_04/solution_01_04.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="e#27#58#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../2018/2018-CS109A/config.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="13" selection-end-line="90" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../2019/2019-CS109A/content/generate_folder_directory.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="45" column="48" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercises/chapter1/exc_01_05/exc_01_05.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="274">
+              <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
               <folding>
-                <element signature="e#0#31#0" expanded="true" />
+                <element signature="e#31#49#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercises/chapter1/exc_01_05/test_01_05.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercises/chapter1/exc_01_07/test_01_07.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -108,7 +92,7 @@
         <entry file="file://$PROJECT_DIR$/exercises/chapter1/exc_01_03/exc_01_03.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="8" lean-forward="true" selection-start-line="5" selection-end-line="7" selection-end-column="8" />
+              <caret line="7" column="8" selection-start-line="5" selection-end-line="7" selection-end-column="8" />
               <folding>
                 <element signature="e#42#60#0" expanded="true" />
               </folding>
@@ -119,8 +103,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercises/chapter1/exc_01_07/exc_01_07.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="388">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercises/chapter1/exc_01_04/test_01_04.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -129,7 +122,7 @@
         <entry file="file://$PROJECT_DIR$/exercises/chapter1/exc_01_03/solution_01_03.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="32" lean-forward="true" selection-start-line="5" selection-end-line="7" selection-end-column="32" />
+              <caret line="7" column="32" selection-start-line="5" selection-end-line="7" selection-end-column="32" />
               <folding>
                 <element signature="e#42#60#0" expanded="true" />
               </folding>
@@ -163,20 +156,21 @@
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/chapters/chapter1.md" />
         <option value="$PROJECT_DIR$/exercises/chapter1/exc_01_03/runtest.py" />
-        <option value="$PROJECT_DIR$/exercises/chapter1/exc_01_04/test_01_04.py" />
-        <option value="$PROJECT_DIR$/exercises/chapter1/exc_01_05/exc_01_05.py" />
-        <option value="$PROJECT_DIR$/exercises/chapter1/exc_01_05/solution_01_05.py" />
-        <option value="$PROJECT_DIR$/exercises/chapter1/exc_01_05/test_01_05.py" />
         <option value="$PROJECT_DIR$/exercises/chapter1/exc_01_06/exc_01_06.py" />
         <option value="$PROJECT_DIR$/exercises/chapter1/exc_01_06/solution_01_06.py" />
         <option value="$PROJECT_DIR$/../../2019/2019-CS109A/content/generate_folder_directory.py" />
         <option value="$PROJECT_DIR$/../../2019/2019-CS109A/config.py" />
-        <option value="$PROJECT_DIR$/exercises/chapter1/exc_01_07/exc_01_07.py" />
         <option value="$PROJECT_DIR$/exercises/chapter1/exc_01_03/solution_01_03.py" />
         <option value="$PROJECT_DIR$/exercises/chapter1/exc_01_03/test_01_03.py" />
         <option value="$PROJECT_DIR$/exercises/chapter1/exc_01_03/exc_01_03.py" />
         <option value="$PROJECT_DIR$/exercises/chapter1/exc_01_04/exc_01_04.py" />
         <option value="$PROJECT_DIR$/exercises/chapter1/exc_01_04/solution_01_04.py" />
+        <option value="$PROJECT_DIR$/exercises/chapter1/exc_01_04/test_01_04.py" />
+        <option value="$PROJECT_DIR$/exercises/chapter1/exc_01_07/exc_01_07.py" />
+        <option value="$PROJECT_DIR$/exercises/chapter1/exc_01_07/test_01_07.py" />
+        <option value="$PROJECT_DIR$/exercises/chapter1/exc_01_05/test_01_05.py" />
+        <option value="$PROJECT_DIR$/exercises/chapter1/exc_01_05/solution_01_05.py" />
+        <option value="$PROJECT_DIR$/exercises/chapter1/exc_01_05/exc_01_05.py" />
       </list>
     </option>
   </component>
@@ -297,7 +291,7 @@
       <option name="presentableId" value="Default" />
       <updated>1558913078927</updated>
       <workItem from="1558913082090" duration="10239000" />
-      <workItem from="1559585290382" duration="7953000" />
+      <workItem from="1559585290382" duration="9611000" />
     </task>
     <task id="LOCAL-00001" summary="First test exercise">
       <created>1558916842009</created>
@@ -337,7 +331,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7959000" />
+    <option name="totallyTimeSpent" value="9617000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="814" extended-state="6" />
@@ -455,13 +449,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/chapter1/exc_01_04/test_01_04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../2019/2019-CS109A/generate_folder_directory.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3318">
@@ -491,23 +478,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/chapter1/exc_01_05/test_01_05.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="63" selection-start-line="3" selection-start-column="63" selection-end-line="3" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/chapter1/exc_01_05/solution_01_05.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../2019/2019-CS109A/content/generate_folder_directory.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
@@ -525,16 +495,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/chapter1/exc_01_05/exc_01_05.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../course-starter-harvard-jm/exercises/chapter1/exc_01_03/exc_01_03.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -542,13 +502,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="90" selection-start-line="90" selection-end-line="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/chapter1/exc_01_07/exc_01_07.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
@@ -562,7 +515,7 @@
     <entry file="file://$PROJECT_DIR$/exercises/chapter1/exc_01_03/exc_01_03.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="8" lean-forward="true" selection-start-line="5" selection-end-line="7" selection-end-column="8" />
+          <caret line="7" column="8" selection-start-line="5" selection-end-line="7" selection-end-column="8" />
           <folding>
             <element signature="e#42#60#0" expanded="true" />
           </folding>
@@ -572,29 +525,77 @@
     <entry file="file://$PROJECT_DIR$/exercises/chapter1/exc_01_03/solution_01_03.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="32" lean-forward="true" selection-start-line="5" selection-end-line="7" selection-end-column="32" />
+          <caret line="7" column="32" selection-start-line="5" selection-end-line="7" selection-end-column="32" />
           <folding>
             <element signature="e#42#60#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/chapter1/exc_01_04/test_01_04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/exercises/chapter1/exc_01_04/exc_01_04.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="17" />
+        <state relative-caret-position="300">
+          <caret line="20" column="7" selection-end-line="20" selection-end-column="7" />
           <folding>
             <element signature="e#27#58#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/chapter1/exc_01_07/exc_01_07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/exercises/chapter1/exc_01_04/solution_01_04.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="165">
+          <caret line="11" selection-end-line="11" />
           <folding>
             <element signature="e#27#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/chapter1/exc_01_07/test_01_07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/chapter1/exc_01_05/test_01_05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/chapter1/exc_01_05/solution_01_05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+          <folding>
+            <element signature="e#30#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/chapter1/exc_01_05/exc_01_05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
+          <folding>
+            <element signature="e#31#49#0" expanded="true" />
           </folding>
         </state>
       </provider>
