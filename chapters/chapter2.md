@@ -1,5 +1,5 @@
 ---
-title: 'Chapter 2 : Introduction to Linear Regression'
+title: 'Chapter 2: Day 1 afternoon, Introduction to Linear Regression'
 description:
   '' 
 prev: null
@@ -9,19 +9,20 @@ id: 2
 ---
 
 <exercise id="1" title="Linear Regression Basics" type="slides">
-    <slides source="chapter1_01_introduction"></slides>
+    <slides source="chapter2_01_introduction"></slides>
 </exercise>
 
  
 <exercise id="2" title="Getting Started">
-    The goal of the following exercises are to familiarize you with the very basics 
-    of linear regression concepts. More practival skills will be in the lab sessions. 
-    Let's reproduce some of the plots that are shown in class.
-    <choice>
-        <opt text="Answer one">This is not the correct answer.</opt>
-        <opt text="Answer two" correct="true">Good job!</opt>
-        <opt text="Answer three">This is not correct either.</opt>
-    </choice>
+    What does the estimated standard error of $\hat{\beta_1}$ represent?     
+<choice>
+<opt text="The standard deviation of the residuals ε.">This is not correct</opt>
+<opt text="The uncertainty of the true slope,  β1." >This is incorrect. The true slope has no uncertainty as such</opt>
+<opt text="The uncertainty of using a sample to estimate β1."correct="true">Best student ever!</opt>
+<opt text="The true standard deviation of  β1's normal distribution.">This is not correct.</opt>
+
+</choice>
+
 </exercise>
 
 <exercise id="3" title="Describe your data">
