@@ -3,15 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e76b8c3f-0052-438f-b5ea-55d0ca48490c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/chapters/chapter1.md" beforeDir="false" afterPath="$PROJECT_DIR$/chapters/chapter1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/chapter1/exc_01_04/exc_01_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/chapter1/exc_01_04/exc_01_04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/chapter1/exc_01_04/solution_01_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/chapter1/exc_01_04/solution_01_04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/chapter1/exc_01_04/test_01_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/chapter1/exc_01_04/test_01_04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/chapter1/exc_01_05/exc_01_05.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/chapter1/exc_01_05/exc_01_05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/chapter1/exc_01_05/solution_01_05.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/chapter1/exc_01_05/solution_01_05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/chapter1/exc_01_05/test_01_05.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/chapter1/exc_01_05/test_01_05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/chapter1/exc_01_07/exc_01_07.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/chapter1/exc_01_07/exc_01_07.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/chapter1/exc_01_07/test_01_07.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/chapter1/exc_01_07/test_01_07.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jn/Linear Regression Basics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/jn/Linear Regression Basics.ipynb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -291,7 +282,7 @@
       <option name="presentableId" value="Default" />
       <updated>1558913078927</updated>
       <workItem from="1558913082090" duration="10239000" />
-      <workItem from="1559585290382" duration="9611000" />
+      <workItem from="1559585290382" duration="9965000" />
     </task>
     <task id="LOCAL-00001" summary="First test exercise">
       <created>1558916842009</created>
@@ -331,7 +322,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9617000" />
+    <option name="totallyTimeSpent" value="9971000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="814" extended-state="6" />

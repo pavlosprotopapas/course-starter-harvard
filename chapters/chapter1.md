@@ -15,12 +15,14 @@ id: 1
  
 <exercise id="2" title="Getting Started">
 
-The Linear Regression Models are used for : 
+Is it possible for $R^2$  for a model to be negative? : 
 
 <choice>
-<opt text="Answer 1">This is not correct either.</opt>
-<opt text="Approximate the dependency relationship between a dependent variable Y, the independent variables X." correct="true">Good job!</opt>
-<opt text="Answer 3">This is not correct either.</opt>
+<opt text="No, $R^2$ cannot be negative">This is not correct</opt>
+<opt text="Yes, if the predictor in a least-squares regression model is poor." correct="true">Good job!</opt>
+<opt text="Yes, if the predictor is negatively correlated with the response ">This is not correct.</opt>
+<opt text="Yes, if the model does worse than using $\bar{Y}$  for all predictions">This is not correct.</opt>
+
 </choice>
 
 </exercise>
