@@ -1,33 +1,35 @@
 ---
-title: 'Chapter 1 : Introduction to Linear Regression'
+title: 'Chapter 1: Day 1 morning A, Introduction to Regression'
 description:
   '' 
 prev: null
-next: /chapter2/
+next: /Chapter 2/
 type: chapter
 id: 1
 ---
 
-<exercise id="1" title="Linear Regression Basics" type="slides">
+<exercise id="1" title="Regression Basics" type="slides">
     <slides source="chapter1_01_introduction"></slides>
 </exercise>
 
  
 <exercise id="2" title="Getting Started">
-    The goal of the following exercises are to familiarize you with the very basics 
-    of linear regression concepts. More practival skills will be in the lab sessions. 
-    Let's reproduce some of the plots that are shown in class.
-    <choice>
-        <opt text="Answer one">This is not the correct answer.</opt>
-        <opt text="Answer two" correct="true">Good job!</opt>
-        <opt text="Answer three">This is not correct either.</opt>
-    </choice>
+
+The Linear Regression Models are used for : 
+
+<choice>
+<opt text="Answer 1">This is not correct either.</opt>
+<opt text="Approximate the dependency relationship between a dependent variable Y, the independent variables X." correct="true">Good job!</opt>
+<opt text="Answer 3">This is not correct either.</opt>
+</choice>
+
 </exercise>
+
 
 <exercise id="3" title="Describe your data">
 
 - Load data from data file `data.csv` using pandas
-- Examine the `DataFrame`. How many points?
+- Examine the `DataFrame`. How many points and how many columns are there?
 
 <codeblock id="01_03"> 
 pandas read csv file data go to https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html
@@ -37,15 +39,9 @@ A great method to describe the dataframe is .describe()
 
 </exercise>
 
-<exercise id="4" title="Draw x vs y">
-The goal here is produce a plot like this 
-<!--
-<img src='ch1_fig1.png' width="50" height="60">
--->
+<exercise id="4" title="Draw TV-budget vs Sales for a subset of data">
+Here we select just 12 points and select only the TV-budget and sales and plot one against the other like in lecture. 
 
-
-- Rename the columns of your Data Frame.
-- Plot the data in a graphic of x vs y.
 
 <codeblock id="01_04">---Hints---</codeblock>
 

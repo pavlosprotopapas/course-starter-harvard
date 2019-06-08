@@ -6,12 +6,12 @@ import pandas as pd
 # add the following line in order to have the plots inside the notebook
 %matplotlib inline
 
-data_filename = 'https://raw.githubusercontent.com/pavlosprotopapas/course-starter-harvard/master/jn/data.csv'
-df = pd.read_csv(data_filename)
+# read the data
+data_filename = 'https://raw.githubusercontent.com/Harvard-IACS/2018-CS109A/master/content/lectures/lecture5/data/Advertising.csv'
+df = pd.read_csv(data_filename);
 
-# Rename columns in data frame as [x,y]
-df.columns = ['x', 'y']
+#  columns in data frame as [x,y]
+df.columns = ____;
 
-# Plot axis x vs axis y
-plt.plot(df.x, df.y, 'bs')
-plt.show()
+# Plot  x vs  y
+plt.____;

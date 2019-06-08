@@ -7,6 +7,6 @@ def test():
     # If an assertion fails, the message will be displayed
 
     # print(__solutions__)
-    assert df.shape == (30, 2), "Your dataframe should have 30 rows and 2 columns"
+    assert df.shape == (200, 5), "Your dataframe should have 200 rows and 5 columns"
 
     __msg__.good("Well done!")

@@ -7,10 +7,10 @@ import pandas as pd
 %matplotlib inline
 
 # read the data
-data_filename = 'https://raw.githubusercontent.com/pavlosprotopapas/course-starter-harvard/master/jn/data.csv'
-df = pd.read_csv(data_filename)
+data_filename = 'https://raw.githubusercontent.com/Harvard-IACS/2018-CS109A/master/content/lectures/lecture5/data/Advertising.csv'
+df = pd.read_csv(data_filename);
 
-# Rename columns in data frame as [x,y]
+#  columns in data frame as [x,y]
 df.columns = ____;
 
 # Plot  x vs  y

@@ -2,38 +2,18 @@
 type: slides
 ---
 
-# Introduction
+# Exercise Goals 
 
-Notes: In the first example below, I give you a lot of the necessary code to help familiarize you with python and its primary libraries. 
-Lecture 3 contained an example of the $k$ nearest neighbors algorithm for a prediction problem. The initial example considered $k=1$ and was applied to the advertising dataset in an attempt to predict sales from TV budgets. Here I reproduce the results from the lecture.
 
----
+The goal of this exerice is to reproduce the plot that was shown in class. The exercises help you to make this happen. 
 
-# This is a slide
+<img src="kNN_fig.png">
 
-```python
-# Part 1: Load Basic Python Modules
-print("Hello world")
-```
 
-```out
-Hello world
-```
-
-- Slides can have code, bullet points, tables and pretty much all other Markdown
-  elements.
-- This is another bullet point.
-
-<img src="profile.jpg" alt="This image is in /static" width="25%">
-
-Notes: Some more notes go here
+    
 
 ---
 
 # Let's practice!
 
-Notes: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique
-libero at est congue, sed vestibulum tortor laoreet. Aenean egestas massa non
-commodo consequat. Curabitur faucibus, sapien vitae euismod imperdiet, arcu erat
-semper urna, in accumsan sapien dui ac mi. Pellentesque felis lorem, semper nec
-velit nec, consectetur placerat enim.
+Notes: 
