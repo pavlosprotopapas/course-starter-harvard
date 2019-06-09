@@ -27,7 +27,7 @@ Is it possible for R<sup>2</sup> for a model to be negative? :
 <exercise id="3" title="Describe your data.">
 
 - Load data from data file `data.csv` using pandas.
-- Examine the `DataFrame`. How many points and how many columns are there?.
+- Examine the `DataFrame`. How many points and how many columns are there?
 
 <codeblock id="01_03"> 
 

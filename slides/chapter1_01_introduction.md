@@ -4,7 +4,7 @@ type: slides
 
 # Introduction
 
-Notes: In the first chapter, I will give you the necessary intuitions to help you become familiar with the basics of Regression.
+Notes: In the first chapter,  exercises will help you become familiar with the basics of Regression and gain some basic intuition.
 
 ---
 

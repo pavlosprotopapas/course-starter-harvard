@@ -1,6 +1,6 @@
 ---
 title: 'Chapter 2: Introduction to Linear Regression'
-description: 'Day 1 afternoon A.'
+description: 'Day 1 morning B.'
 prev: /chapter1/
 next: null
 id: 2
@@ -13,7 +13,7 @@ type: chapter
 
 <exercise id="7" title="Getting Started">
 
-What does the estimated standard error of $\hat{&beta;<sub></sub>}$ represent?     
+What does the estimated standard error of &beta;<sub></sub> represent?     
 
 <choice>
 <opt text="The standard deviation of the residuals ε.">This is not correct</opt>
@@ -28,13 +28,13 @@ What does the estimated standard error of $\hat{&beta;<sub></sub>}$ represent?
 The goal here is produce a plot like this :
 
 <div style="text-align:center">
-    <img src="./visual_representation.png" 
-    alt="Visual representation of the data generates in this example" 
+    <img src="./visual_representation.png"
+    alt="Visual representation of the data generates in this example"
     width="40%">
 </div>
 
-- Create a new dataframe called `df_new`. witch the columns [].
-- Plot the data in a graphic of ? vs ?.
+- Create a new dataframe called `df_new` having the columns [x,y].
+- Plot the data in a graphic of Sales vs TV budget.
 
 <codeblock id="02_01">---Hints---</codeblock>
 
