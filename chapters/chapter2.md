@@ -33,8 +33,8 @@ The goal here is produce a plot like this :
     width="40%">
 </div>
 
-- Create a new dataframe called `df_new` having the columns [x,y].
-- Plot the data in a graphic of Sales vs TV budget.
+- Create a new dataframe called `df_new` having the columns ['TV' and 'sales'].
+- Plot the data in a graphic of TV and sales.
 
 <codeblock id="02_01">---Hints---</codeblock>
 

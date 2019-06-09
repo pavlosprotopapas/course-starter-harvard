@@ -14,6 +14,9 @@ data_filename = 'https://raw.githubusercontent.com/Harvard-IACS/' \
 # Read Advertising.csv file using pandas libraries:
 df = pd.read_csv(data_filename)
 
+# Create a new dataframe called `df_new`. witch the columns ['TV' and 'sales'].
+df_new = df[['TV', 'sales']]
+
 # Estimate beta0 by observing the value of y when x = 0
 beta0 = ____;
 
@@ -24,8 +27,13 @@ beta1 = ____;
 y_predict = ____;
 
 # Plot the predicted values as well as the data
-plt.plot(df.?, df.?, 'bs')
-plt.plot(df.?, y_predict)
+plt.plot(df_new.____, df_new.____, '*')
+plt.plot(df_new.____, ____)
+plt.xlabel('TV')
+plt.ylabel('Sales')
+
+# To display all figures
+plt.show()
 
 # Calculate the MSE
 MSE = ____;
