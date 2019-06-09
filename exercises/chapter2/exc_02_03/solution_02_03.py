@@ -18,7 +18,7 @@ df = pd.read_csv(data_filename)
 df_new = df[['TV', 'sales']]
 
 # Set beta0 = 2.2
-beta0 = 7.03
+beta0 = 6.67
 
 # Create lists to store the MSE and beta1
 MSE = []

@@ -18,10 +18,10 @@ df = pd.read_csv(data_filename)
 df_new = df[['TV', 'sales']]
 
 # Estimate beta0 by observing the value of y when x = 0
-beta0 = 7.03
+beta0 = 6.67
 
 # Estimate beta1! Check the slope for guidance
-beta1 = 0.04
+beta1 = 0.05
 
 # Define the function to calculate the prediction of x using beta0 and beta1
 y_predict = beta0 + beta1 * df_new.TV

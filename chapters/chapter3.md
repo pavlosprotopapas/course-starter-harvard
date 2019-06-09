@@ -1,8 +1,8 @@
 ---
-title: 'Chapter 2: Introduction to Linear Regression'
-description: 'Day 1 morning B.'
-prev: /chapter1/
-next: /chapter3/
+title: 'Chapter 3: Introduction to Linear Regression'
+description: 'Day 1 afternoon A.'
+prev: /chapter2/
+next: null
 id: 2
 type: chapter
 ---
@@ -28,7 +28,7 @@ What does the estimated standard error of &beta;<sub></sub> represent?
 The goal here is produce a plot like this :
 
 <div style="text-align:center">
-    <img src="./visual_representation_exc.png"
+    <img src="./visual_representation.png"
     alt="Visual representation of the data generates in this example"
     width="40%">
 </div>

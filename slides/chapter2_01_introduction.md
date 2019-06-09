@@ -4,7 +4,7 @@ type: slides
 
 # Introduction
 
-Notes: In the first chapter, I will give you the necessary intuitions to help you become familiar with the basics of linear regression.
+Notes: In the second chapter, I will give you the necessary intuitions to help you become familiar with the basics of linear regression.
 
 - __[Linear regression](https://en.wikipedia.org/wiki/Linear_regression)__ it is used to approximate the dependency relationship between a dependent variable Y, the independent variables X<sub>i</sub> and a random term ε. 
 
