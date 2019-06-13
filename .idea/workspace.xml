@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e76b8c3f-0052-438f-b5ea-55d0ca48490c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapters/chapter3.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/chapter2/visual_representation_exc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/chapter3/Screen Shot 2019-06-09 at 2.18.35 AM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/chapter3/Screen Shot 2019-06-09 at 2.18.43 AM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/chapter3/Screen Shot 2019-06-09 at 2.18.50 AM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/chapter3/Screen Shot 2019-06-09 at 2.19.01 AM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/chapter3/Screen Shot 2019-06-09 at 2.19.06 AM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/chapter3/Screen Shot 2019-06-09 at 2.19.12 AM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/chapter3/Screen Shot 2019-06-09 at 2.19.18 AM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/chapter3/Screen Shot 2019-06-09 at 2.19.23 AM.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapters/chapter2.md" beforeDir="false" afterPath="$PROJECT_DIR$/chapters/chapter2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/chapter2/exc_02_02/solution_02_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/chapter2/exc_02_02/solution_02_02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/chapter2/exc_02_03/solution_02_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/chapter2/exc_02_03/solution_02_03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/chapter2/exc_02_03/test_02_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/chapter2/exc_02_03/test_02_03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jn/Playground Linear Regression Basics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/jn/Playground Linear Regression Basics.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jn/visual_representation.png" beforeDir="false" afterPath="$PROJECT_DIR$/jn/visual_representation.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slides/chapter2_01_introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/slides/chapter2_01_introduction.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/chapter2/visual_representation.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/chapter2/visual_representation.png" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,14 +13,52 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapters/chapter3.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="300">
-                <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+                <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercises/chapter2/exc_02_01/exc_02_01.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+              <folding>
+                <element signature="e#42#60#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exercises/chapter2/exc_02_01/solution_02_01.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="16" column="77" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="77" />
+              <folding>
+                <element signature="e#42#60#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercises/chapter2/exc_02_01/test_01_01.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercises/chapter1/exc_01_04/test_01_04.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -48,7 +68,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="60">
-                <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+                <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
               </first_editor>
               <second_editor />
             </state>
@@ -123,8 +143,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="203" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="30" />
     <option name="width" value="1440" />
     <option name="height" value="823" />
   </component>
@@ -196,6 +216,8 @@
       <workItem from="1558913082090" duration="10239000" />
       <workItem from="1559585290382" duration="10895000" />
       <workItem from="1560026964138" duration="10683000" />
+      <workItem from="1560234775652" duration="99000" />
+      <workItem from="1560442974764" duration="553000" />
     </task>
     <task id="LOCAL-00001" summary="Updates">
       <created>1560036214645</created>
@@ -236,10 +258,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25715000" />
+    <option name="totallyTimeSpent" value="26367000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1373" height="773" extended-state="6" />
+    <frame x="0" y="30" width="1440" height="823" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25998494" />
@@ -253,11 +275,11 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.24717286" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4985694" weight="0.2457627" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="TypeScript" order="10" weight="0.33097595" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="11" sideWeight="0.4958553" side_tool="true" visible="true" weight="0.06462035" />
-      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.50414467" weight="0.06462035" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.49642345" side_tool="true" visible="true" weight="0.38135594" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" sideWeight="0.5035765" visible="true" weight="0.38135594" />
       <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="bottom" id="Messages" order="14" weight="0.41518578" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -343,7 +365,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Updates" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/2019/2019-CS109A/generate_folder_directory.py" />
     <entry file="file://$PROJECT_DIR$/exercises/chapter1/exc_01_06/solution_01_06.py" />
     <entry file="file://$PROJECT_DIR$/exercises/chapter1/exc_01_06/exc_01_06.py" />
     <entry file="file://$USER_HOME$/2019/2019-CS109A/content/generate_folder_directory.py" />
@@ -359,13 +380,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/chapter1/exc_01_04/test_01_04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
@@ -535,26 +549,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/chapter2/exc_02_01/solution_02_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="77" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="77" />
-          <folding>
-            <element signature="e#42#60#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/chapter2/exc_02_01/exc_02_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
-          <folding>
-            <element signature="e#42#60#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exercises/chapter2/exc_02_02/solution_02_02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
@@ -608,29 +602,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapters/chapter2.md">
+    <entry file="file://$PROJECT_DIR$/jn/Playground Linear Regression Basics.ipynb" />
+    <entry file="file://$PROJECT_DIR$/jn/Linear Regression Basics Old.ipynb" />
+    <entry file="file://$PROJECT_DIR$/chapters/chapter3.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <first_editor relative-caret-position="300">
+            <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jn/Playground Linear Regression Basics.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jn/Linear Regression Basics Old.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapters/chapter3.md">
+    <entry file="file://$PROJECT_DIR$/chapters/chapter2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="300">
-            <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/chapter2/exc_02_01/exc_02_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+          <folding>
+            <element signature="e#42#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/chapter1/exc_01_04/test_01_04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/chapter2/exc_02_01/test_01_01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/chapter2/exc_02_01/solution_02_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="77" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="77" />
+          <folding>
+            <element signature="e#42#60#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
