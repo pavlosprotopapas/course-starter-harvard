@@ -5,3 +5,4 @@ pandas
 pip==19.1.1
 setuptools==41.0.1
 six==1.12.0
+keras==2.1.2
