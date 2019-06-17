@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e76b8c3f-0052-438f-b5ea-55d0ca48490c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/chapter4/exc_04_02/test_04_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/chapter4/exc_04_02/test_04_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta.json" beforeDir="false" afterPath="$PROJECT_DIR$/meta.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,7 +30,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercises/chapter2/exc_02_01/exc_02_01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
+            <state relative-caret-position="180">
               <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
               <folding>
                 <element signature="e#42#60#0" expanded="true" />
@@ -37,7 +39,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercises/chapter2/exc_02_01/solution_02_01.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -49,16 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercises/chapter2/exc_02_01/test_01_01.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercises/chapter1/exc_01_04/test_01_04.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exercises/chapter4/exc_04_01/exc_04_01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="219">
+              <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -140,13 +137,14 @@
         <option value="$PROJECT_DIR$/exercises/chapter2/exc_02_03/solution_02_03.py" />
         <option value="$PROJECT_DIR$/chapters/chapter2.md" />
         <option value="$PROJECT_DIR$/chapters/chapter3.md" />
+        <option value="$PROJECT_DIR$/exercises/chapter4/exc_04_02/test_04_02.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="30" />
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="823" />
+    <option name="height" value="816" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -217,7 +215,8 @@
       <workItem from="1559585290382" duration="10895000" />
       <workItem from="1560026964138" duration="10683000" />
       <workItem from="1560234775652" duration="99000" />
-      <workItem from="1560442974764" duration="553000" />
+      <workItem from="1560442974764" duration="796000" />
+      <workItem from="1560494849150" duration="1010000" />
     </task>
     <task id="LOCAL-00001" summary="Updates">
       <created>1560036214645</created>
@@ -258,10 +257,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26367000" />
+    <option name="totallyTimeSpent" value="27620000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="30" width="1440" height="823" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="816" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25998494" />
@@ -278,8 +277,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4985694" weight="0.2457627" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="TypeScript" order="10" weight="0.33097595" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.49642345" side_tool="true" visible="true" weight="0.38135594" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" sideWeight="0.5035765" visible="true" weight="0.38135594" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.49713877" side_tool="true" visible="true" weight="0.38516405" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" sideWeight="0.5028612" visible="true" weight="0.38516405" />
       <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="bottom" id="Messages" order="14" weight="0.41518578" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -365,9 +364,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Updates" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/exercises/chapter1/exc_01_06/solution_01_06.py" />
-    <entry file="file://$PROJECT_DIR$/exercises/chapter1/exc_01_06/exc_01_06.py" />
-    <entry file="file://$USER_HOME$/2019/2019-CS109A/content/generate_folder_directory.py" />
     <entry file="file://$USER_HOME$/2018/2018-CS109A/config.py" />
     <entry file="file://$PROJECT_DIR$/../course-starter-harvard-jm/exercises/chapter1/exc_01_03/exc_01_03.py" />
     <entry file="file://$USER_HOME$/2019/2019-CS109A/config.py" />
@@ -614,6 +610,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/chapter2/exc_02_01/exc_02_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+          <folding>
+            <element signature="e#42#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chapters/chapter2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -624,10 +630,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/chapter2/exc_02_01/exc_02_01.py">
+    <entry file="file://$PROJECT_DIR$/exercises/chapter2/exc_02_01/solution_02_01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+        <state relative-caret-position="180">
+          <caret line="16" column="77" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="77" />
           <folding>
             <element signature="e#42#60#0" expanded="true" />
           </folding>
@@ -637,20 +643,27 @@
     <entry file="file://$PROJECT_DIR$/exercises/chapter1/exc_01_04/test_01_04.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/exercises/chapter2/exc_02_01/test_01_01.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/chapter2/exc_02_01/solution_02_01.py">
+    <entry file="file://$PROJECT_DIR$/exercises/chapter4/exc_04_02/test_04_02.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="16" column="77" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="77" />
-          <folding>
-            <element signature="e#42#60#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/chapter4/exc_04_01/test_04_01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/chapter4/exc_04_01/exc_04_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
         </state>
       </provider>
     </entry>
